@@ -51,7 +51,7 @@
 
 - 💡 **Currently Building**: Web apps using React, Next.js & Appwrite  
 - 🔥 **Hobbies**: Coding, Playing Sports, Exercising, and Weightlifting  
-- 🎯 **Goals for 2025**: Master PostgreSQL & Improve my DSA Skills  
+- 🎯 **Goals for 2025**: Master Nextjs & Improve my English Skills  
 
 ---
 

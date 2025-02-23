@@ -42,7 +42,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/puppiesa/puppiesa/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pupiesa/puppiesa/63259d68221815991d37d618b6e7684cb57cdac8/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/puppiesa/puppiesa/output/snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/puppiesa/puppiesa/output/snake.svg" />
+</picture>
 
 ###
 
@@ -51,5 +55,6 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/puppiesa/count.svg?"  />
 </div>
+
 
 ###

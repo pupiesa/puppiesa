@@ -3,11 +3,7 @@
 ###
 
 <div align="center">
-  ![puppiesa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=puppiesa&theme=dark&hide_border=false)
-</div>
-
-###
-
+  <img src="![puppiesa's Stats](https://github-readme-stats.vercel.app/api?username=puppiesa&theme=dark&show_icons=true&hide_border=false&count_private=true)"  />
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRibGF2Y3Frbjd1MzQwNHE2M2JtanhlbXJodmFrZnBqY2hkbGlvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qijwTwQrMnC6c/giphy.gif"  />
 
 ###

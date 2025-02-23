@@ -4,6 +4,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=puppiesa&theme=dark&show_icons=true&hide_border=false&count_private=true"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pupiesa&theme=dark&hide_border=false"  />
+  <img src="[https://github-readme-stats.vercel.app/api?username=puppiesa&theme=dark&show_icons=true&hide_border=false&count_private=true](https://github-readme-stats.vercel.app/api/top-langs/?username=pupiesa&theme=dark&show_icons=true&hide_border=false&layout=compact)"  />
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRibGF2Y3Frbjd1MzQwNHE2M2JtanhlbXJodmFrZnBqY2hkbGlvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qijwTwQrMnC6c/giphy.gif"  />
 
 ###
@@ -42,11 +44,7 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pupiesa/puppiesa/63259d68221815991d37d618b6e7684cb57cdac8/snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/puppiesa/puppiesa/output/snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/puppiesa/puppiesa/output/snake.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/puppiesa/puppiesa/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -55,6 +53,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/puppiesa/count.svg?"  />
 </div>
-
 
 ###
